@@ -1,0 +1,6 @@
+aiogram
+openai
+aiohttp
+gtts
+pydantic
+
